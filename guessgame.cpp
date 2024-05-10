@@ -9,7 +9,7 @@ int main()
 	
 	int ch;
 	
-	cout << "Guess My Number Game\n\n";
+	cout << "Guess the Number Game\n\n";
 	cout<<"Select difficulty level : 1.Easy   2.Intermediate  3.Extreme ";
 	cout<<endl;
 	cout<<"Enter your choice ( 1 or 2 or 3 ) :";
